@@ -81,6 +81,7 @@ Example:
 3. One-frame walk
 4. Discord integration
 5. Lua scripts reader (perhaps, I'm not sure)
+6. Detect if another player uses FFN, if does - render his name purple (will send your username to a database server) (I'll think about this feature, perhaps useless but cool to see if someone is also in the same boat. This will not be included in the next client to avoid unnecessary detection)
 
 ...
 
