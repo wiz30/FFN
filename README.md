@@ -104,3 +104,17 @@ As soon as I will upload the source code
 <h1>Build</h1>
 
 As a regular DDNet build, do your steps
+
+---
+
+<h1>Pre-release changelog</h1>
+
+<h3>1.1.0:</h3>
+
+[+] Added text mimicking (type username to mimick from)
+
+ [*] Tricky words such as "i am a loser" will not be copied to not 'overplay' you
+  
+ [*] You can't copy your dummy
+  
+[+] Added tabs in FFN window - Main, Fun, XPloit (temporary, will be included in the next client)
