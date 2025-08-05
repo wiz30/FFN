@@ -114,8 +114,14 @@ As a regular DDNet build, do your steps
 
 [+] Added text mimicking (type username to mimick from)
 
- [*] Tricky words such as "i am a loser" will not be copied to not 'overplay' you
+[^] Tricky words such as "i am a loser" will not be copied to not 'overplay' you
   
- [*] You can't copy your dummy
+[^] You can't copy your dummy
   
 [+] Added tabs in FFN window - Main, Fun, XPloit (temporary, will be included in the next client)
+
+<h3>1.2.0</h3>
+
+[+] Added ability to see who is using FFN client (scoreboard only)
+
+[^] Requires a special trigger-text in chat that saves into a local file with usernames
