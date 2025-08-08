@@ -70,6 +70,19 @@ Example:
 
 ![2025-07-28 01-14-42](https://github.com/user-attachments/assets/63467c2b-9c16-45c1-b98e-6d013add7e7a)
 
+<h3>Reply with custom message while you're alt tabbed</h3>
+
+Includes:
+
+* Adjustable message field
+
+<ins>How it works:</ins>
+
+Reply with custom message while you're alt tabbed
+
+1. Set the needed text for reply
+2. Hit the checkbox
+
 ---
 
 <h3>Planned features for THIS version of FFN</h3>
@@ -125,3 +138,7 @@ As a regular DDNet build, do your steps
 [+] Added ability to see who is using FFN client (scoreboard only)
 
 [^] Requires a special trigger-text in chat that saves into a local file with usernames
+
+<h3>1.3.0</h3>
+
+[+] Added reply message when you're alt tabbed
