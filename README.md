@@ -93,3 +93,9 @@ As a regular DDNet build, do your steps
 <h3>1.3.0</h3>
 
 [+] Added reply message when you're alt tabbed
+
+<h3>1.3.1</h3>
+
+[*] Upscaled wallpaper
+
+[-] Removed junk from code and UI
