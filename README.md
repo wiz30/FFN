@@ -99,3 +99,7 @@ As a regular DDNet build, do your steps
 [*] Upscaled wallpaper
 
 [-] Removed junk from code and UI
+
+<h3>1.3.2</h3>
+
+[+] Discord RPC
