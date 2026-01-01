@@ -83,6 +83,8 @@ As a regular DDNet build, do your steps
   
 [+] Added tabs in FFN window - Main, Fun
 
+[+] Version spoofing
+
 <h3>1.2.0</h3>
 
 [+] Added ability to see who is using FFN client (scoreboard only)
@@ -110,3 +112,4 @@ As a regular DDNet build, do your steps
 [+][*] Removed red color from FFN recognition, instead added a red logo beside player's username
 
 I'm starting to think this project will not be open sourced due to sensitive fields...
+
