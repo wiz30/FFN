@@ -52,9 +52,8 @@ Reply with custom message while you're alt tabbed
 
 1. Moonwalk
 2. One-frame walk
-3. Discord integration
-4. Lua scripts reader (perhaps, I'm not sure)
-5. Detect if another player uses FFN, if does - render his name purple (will send your username to a database server) (I'll think about this feature, perhaps useless but cool to see if someone is also in the same boat. This will not be included in the next client to avoid unnecessary detection)
+3. Lua scripts reader (perhaps, I'm not sure)
+4. Sync usernames with database, so people will automatically see FFN users
 
 ...
 
@@ -103,3 +102,11 @@ As a regular DDNet build, do your steps
 <h3>1.3.2</h3>
 
 [+] Discord RPC
+
+<h3>2.3.1</h3>
+
+[*] Updated to 19070
+
+[+][*] Removed red color from FFN recognition, instead added a red logo beside player's username
+
+I'm starting to think this project will not be open sourced due to sensitive fields...
