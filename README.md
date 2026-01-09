@@ -53,8 +53,7 @@ Reply with custom message while you're alt tabbed
 1. Moonwalk
 2. One-frame walk
 3. Lua scripts reader (perhaps, I'm not sure)
-4. Sync usernames with database, so people will automatically see FFN users
-
+4. Make UI more comfortable
 ...
 
 You can submit your ideas in this repo by creating an issue with label "suggestion"
@@ -113,3 +112,8 @@ As a regular DDNet build, do your steps
 
 I'm starting to think this project will not be open sourced due to sensitive fields...
 
+<h3>2.4.1</h3>
+
+[+] FFNNetwork. You can see whoever is using FFN. Check scoreboard and see logo beside usernames
+
+[*] Fixed alt-tab message being triggered if sender's message contains your name (ex. "okay" would trigger alt-tab message).
