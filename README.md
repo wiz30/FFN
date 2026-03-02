@@ -99,6 +99,7 @@ Example:
 2. One-frame walk
 3. Lua scripts reader (perhaps, I'm not sure)
 4. Nearby players detection (fyi it's legal)
+5. Colorful emojis (aka pictures) 
 ...
 
 You can submit your ideas in this repo by creating an issue with label "suggestion"
@@ -166,3 +167,4 @@ I'm starting to think this project will not be open sourced due to sensitive fie
 <h3>2.4.2</h3>
 
 [*] UI changes
+
