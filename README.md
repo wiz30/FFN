@@ -79,6 +79,22 @@ Example:
 
 ![version](https://github.com/user-attachments/assets/69ad9820-04aa-4cd6-8af5-b523b98b9cf1)
 
+<h3>Emojis</h3>
+
+Includes:
+
+1. Suggestion for emoji
+
+2. Auto insertion by hitting TAB button when emoji's keyword is not fully written
+
+3. Preview emojis once you complete it's keyword
+
+Example:
+
+![emojis](https://github.com/user-attachments/assets/6c21035e-e900-4eaf-957b-3f62c62117fc)
+
+Note: Amount of emojis within one message is limited by DDNet's character limitation system in chat input. Max amount of suggested emojis = 5, updates itself once you type more
+
 <h3>FFN Network</h3>
 
 You will be able to see who is using FFN, players who use FFN will also see that you are using the same client.
@@ -99,7 +115,9 @@ Example:
 2. One-frame walk
 3. Lua scripts reader (perhaps, I'm not sure)
 4. Nearby players detection (fyi it's legal)
-5. Colorful emojis (aka pictures) 
+5. Crazy mode (shake most UI, crazify things) [FUN] tab
+6. Add more emojis (you can submit your own emojis into this project via "issue" in github)
+7. Beta release (without source code)
 ...
 
 You can submit your ideas in this repo by creating an issue with label "suggestion"
@@ -108,11 +126,7 @@ You can submit your ideas in this repo by creating an issue with label "suggesti
 
 <h1>Installation</h1>
 
-As soon as I will upload the source code
-
-<h1>Build</h1>
-
-As a regular DDNet build, do your steps
+Download and play (currently unavailable)
 
 ---
 
@@ -168,3 +182,6 @@ I'm starting to think this project will not be open sourced due to sensitive fie
 
 [*] UI changes
 
+<h3>2.4.3</h3>
+
+[+] Emoji system
