@@ -8,7 +8,7 @@
 
 Brief description:
 
-An open-source (?) <a href='https://ddnet.org/'>DDNet</a>-based (TeeWorlds) custom client made by **oka**.
+<a href='https://ddnet.org/'>DDNet</a>-based (TeeWorlds) custom client made by **oka**.
 
 <div align="left">
   <h2>Features</h2>
@@ -93,7 +93,19 @@ Example:
 
 ![emojis](https://github.com/user-attachments/assets/6c21035e-e900-4eaf-957b-3f62c62117fc)
 
-Note: Amount of emojis within one message is limited by DDNet's character limitation system in chat input. Max amount of suggested emojis = 5, updates itself once you type more
+Note: Amount of emojis within one message is limited by DDNet's character limitation system in chat input. Max amount of suggested emojis = 5, updates itself once you type more. <b>Works and visible only for FFN clients</b>
+
+<h3>Encrypted messages</h3>
+
+Includes:
+
+1. Auto decryption for FFN users, which means no one (without FFN) will ever know what you are chatting about
+
+2. Emoji support
+
+Example:
+
+![encryption](https://github.com/user-attachments/assets/a9459055-3023-465e-9ee9-06aa137852ef)
 
 <h3>FFN Network</h3>
 
@@ -117,7 +129,15 @@ Example:
 4. Nearby players detection (fyi it's legal)
 5. Crazy mode (shake most UI, crazify things) [FUN] tab
 6. Add more emojis (you can submit your own emojis into this project via "issue" in github)
-7. Beta release (without source code)
+7. Floating message (bubble) above player's head when he types a message
+8. Particles when finishing a map
+9. Splash effect when frozen
+10. Custom effects on your username in scoreboard (not sure about this)
+11. Animate FFN logo on startup
+12. Custom effect when dying
+13. Custom effects on your tee
+14. Enhance particles system (when hooking, speeding up...)
+16. Beta release (without source code)
 ...
 
 You can submit your ideas in this repo by creating an issue with label "suggestion"
@@ -185,3 +205,7 @@ I'm starting to think this project will not be open sourced due to sensitive fie
 <h3>2.4.3</h3>
 
 [+] Emoji system
+
+<h3>2.4.4</h3>
+
+[+] Encrypted messages
