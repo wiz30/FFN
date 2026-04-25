@@ -129,15 +129,13 @@ Example:
 4. Nearby players detection (fyi it's legal)
 5. Crazy mode (shake most UI, crazify things) [FUN] tab
 6. Add more emojis (you can submit your own emojis into this project via "issue" in github)
-7. Floating message (bubble) above player's head when he types a message
-8. Particles when finishing a map
-9. Splash effect when frozen
-10. Custom effects on your username in scoreboard (not sure about this)
-11. Animate FFN logo on startup
-12. Custom effect when dying
-13. Custom effects on your tee
-14. Enhance particles system (when hooking, speeding up...)
-16. Beta release (without source code)
+7. Particles when finishing a map
+8. Splash effect when frozen
+9. Custom effects on your username in scoreboard (not sure about this)
+10. Animate FFN logo on startup
+11. Custom effect when dying
+12. Custom effects on your tee
+13. Beta release (without source code)
 ...
 
 You can submit your ideas in this repo by creating an issue with label "suggestion"
@@ -209,3 +207,19 @@ I'm starting to think this project will not be open sourced due to sensitive fie
 <h3>2.4.4</h3>
 
 [+] Encrypted messages
+
+<h3>2.5.3</h3>
+
+[+] Chat bubbles
+
+[+] "Moderation" tab, allows continuous F2 parsing
+
+[+] Custom hooks
+
+[+] Speed up trail
+
+[+] Hook particles
+
+[+] Speech-to-text (can use any local model)
+
+[+] "/trace" commands - draws trail behind your tee
