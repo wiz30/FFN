@@ -223,3 +223,45 @@ I'm starting to think this project will not be open sourced due to sensitive fie
 [+] Speech-to-text (can use any local model)
 
 [+] "/trace" commands - draws trail behind your tee
+
+[-] Version spoofer (I'm sorry)
+
+<h3>2.5.6</h3>
+
+<h4>[+] Translator (in settings and via commands):</h4>
+
+`/translate <incoming language> <language to translate to>`
+
+(accepts formats 'auto|en|tr|ru|ua|es' etc; 'auto|spanish|english|turkish' and etc)
+
+`/translate on`
+
+`/translate off`
+
+`/translate self <what language are you typing on> <what language to be translated to>`
+
+(accepts formats 'auto|en|tr|ru|ua|es' etc; 'auto|spanish|english|turkish' and etc)
+
+`/translate self on`
+
+`/translate self off`
+
+You can also see whether translator is on or off by looking below the chat input.
+
+[+] Russian localization
+
+[+] New button to clear bindings for chosen keys in STT (Speech-To-Text)
+
+[*] Renamed TTS (Text-To-Speech) to STT (Speech-To-Text)
+
+[*] Fixed messages being cut for alt tab response
+
+[+] FFN logo at the bottom of your screen while in-game
+
+*can disable it in settings
+
+[+] Auto-reply after being mentioned
+
+[*] Reduced FFN total size
+
+[+] Added indicator when cursor goes off-screen (useful for smooth dynamic camera where you don't know where your cursor at)
